@@ -42,7 +42,7 @@ Voici les applications et projets que j'ai développés :
 | **happybudget** | Gestionnaire financier pour suivre et maîtriser ses dépenses quotidiennes simplement. | React.js, TypeScript, Supabase, Prisma | [🌐 Voir le site](https://happybudget-theta.vercel.app/) |
 | **flechettestime** | Compteur de points interactif conçu pour simplifier les parties de fléchettes. | Next.js, React.js, JavaScript, TypeScript | [🌐 Voir le site](https://flechettestime.vercel.app/)|
 | **kyanto** | Boutique de streetwear inspirée de l'esthétique japonaise moderne et urbaine. | HTML5, CSS3 | [🌐 Voir le site](https://kyanto.vercel.app/) |
-| **atelier-ceramique**| Projet HTML-CSS [🌐 Voir le site](https://atelier-ceramique.vercel.app/)
+| **atelier-ceramique** | Site vitrine mettant en valeur les créations d'un atelier d'artisanat (projet individuel, à l'initiation). | HTML5, CSS3 | [🌐 Voir le site](https://atelier-ceramique.vercel.app/) |
 
 ---
 
