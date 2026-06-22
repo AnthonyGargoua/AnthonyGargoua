@@ -58,6 +58,6 @@ Voici les applications et projets que j'ai développés :
 
 * 💼 **LinkedIn :** [linkedin.com/in/anthony-gargoua-776571196](https://www.linkedin.com/in/anthony-gargoua-776571196)
 * 📧 **Email :** gargouaanthony@hotmail.fr
-*📞 **Téléphone:**0761579453
+*📞 **Téléphone :** 0761579453
 
 * 📍 **Localisation :** Montpellier, France
