@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Anthony GARGOUA ! 👋
+# Bonjour, moi c'est Anthony GARGOUA ! 🌴
 
 Actuellement en formation professionnelle **Titre RNCP Niveau 6 (Bac+3/4) chez Diginamic Montpellier** afin de préparer mon diplôme de **Concepteur Développeur d'Applications (CDA)**.
 
