@@ -46,14 +46,6 @@ Voici les applications et projets que j'ai développés :
 
 ---
 
-## 📊 Statistiques de Profil
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyGargoua&show_icons=true&theme=dark&locale=fr" alt="Stats GitHub d'Anthony" />
-</p>
-
----
-
 ## 📫 Restons en contact !
 
 * 💼 **LinkedIn :** [linkedin.com/in/anthony-gargoua-776571196](https://linkedin.com/in/anthony-gargoua-776571196)
