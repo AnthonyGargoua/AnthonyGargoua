@@ -24,10 +24,10 @@ Mon objectif : concevoir des solutions innovantes et centrées sur l'utilisateur
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-4470c1?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ### 🧰 Écosystème & Outils
-* 🌐 **CMS :** WordPress, PrestaShop, WooCommerce (Maintenance, SEO, Gestion E-commerce)
+* 🌐 **CMS :** WordPress, PrestaShop, WooCommerce (Maintenance, SEO, SEA, SMO, Gestion E-commerce)
 * 🔄 **Versionning & Dev :** Git, GitHub, DevTools
 * 🗄️ **Bases de données :** PHPMyAdmin
-* **UML
+* 📐 **Modélisation :** UML
 
 ---
 
