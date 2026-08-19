@@ -56,13 +56,6 @@ Voici les applications et projets que j'ai développés (détails et démos comp
 
 ---
 
-## 📊 Mon activité GitHub
-
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonygargoua&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonygargoua&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Restons en contact !
 
 * 🖥️ **Portfolio :** [anthonygargoua.github.io/portfolio](https://anthonygargoua.github.io/portfolio/)
