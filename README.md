@@ -1,53 +1,71 @@
 # Bonjour, moi c'est Anthony GARGOUA ! 🌴
 
-Actuellement en formation professionnelle **Titre RNCP Niveau 6 (Bac+3/4) chez Diginamic Montpellier** afin de préparer mon diplôme de **Concepteur Développeur d'Applications (CDA)**.
+🎓 Actuellement en formation professionnelle **Titre RNCP Niveau 6 (Bac+3/4) chez Diginamic Montpellier**, afin de préparer mon diplôme de **Concepteur Développeur d'Applications (CDA)**.
 
-Issu d'un double profil alliant expertise commerciale et marketing digital, je mets aujourd'hui ma force d'apprentissage au service du développement d'applications web modernes, performantes et scalables. Force de proposition, je me forme sans cesse aux nouvelles technologies pour répondre aux défis techniques de demain. 
-Mon objectif : concevoir des solutions innovantes et centrées sur l'utilisateur.
+Issu d'un double profil alliant **expertise commerciale** et **marketing digital**, je mets aujourd'hui ma force d'apprentissage au service du développement d'applications web modernes, performantes et scalables. Force de proposition, je me forme sans cesse aux nouvelles technologies pour répondre aux défis techniques de demain.
+
+🎯 **Mon objectif :** concevoir des solutions innovantes et centrées sur l'utilisateur, en combinant mon sens du commerce et ma vision digitale.
+
+🔗 **Retrouvez tous mes projets en détail sur mon portfolio :** [anthonygargoua.github.io/portfolio](https://anthonygargoua.github.io/portfolio/)
 
 ---
 
 ## 🛠️ Mon Stack Technique
 
 ### 💻 Front-end
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Back-end & Data
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-4470c1?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🧰 Écosystème & Outils
+
 * 🌐 **CMS :** WordPress, PrestaShop, WooCommerce (Maintenance, SEO, SEA, SMO, Gestion E-commerce)
-* 🔄 **Versionning & Dev :** Git, GitHub, DevTools
-* 🗄️ **Bases de données :** PHPMyAdmin
+* 🔄 **Versionning & Dev :** Git, GitHub, VS Code, DevTools
+* 🗄️ **Bases de données :** phpMyAdmin
 * 📐 **Modélisation :** UML
+* ☁️ **Déploiement :** Vercel
 
 ---
 
 ## 🚀 Mes Projets
 
-Voici les applications et projets que j'ai développés :
+Voici les applications et projets que j'ai développés (détails et démos complètes sur mon [portfolio](https://anthonygargoua.github.io/portfolio/)) :
 
 | Projet | Description | Stack Technique | Déploiement |
 | :--- | :--- | :--- | :--- |
 | **ag-developer** | Portfolio personnel de présentation de mes services et de mes compétences. | HTML5, CSS3, Vanilla JavaScript | [🌐 Voir le site](https://ag-developer-five.vercel.app/) |
-| **agperformance** | Application sportive pour suivre son programme et enregistrer ses données (VTT, Padel). | Next.js, TypeScript, Tailwind CSS | [🌐 Voir le site](https://agperformance.vercel.app/)|
+| **agperformance** | Application sportive pour suivre son programme et enregistrer ses données (VTT, Padel). | Next.js, TypeScript, Tailwind CSS | [🌐 Voir le site](https://agperformance.vercel.app/) |
 | **happybudget** | Gestionnaire financier pour suivre et maîtriser ses dépenses quotidiennes simplement. | React.js, TypeScript, Supabase, Prisma | [🌐 Voir le site](https://happybudget-theta.vercel.app/) |
-| **flechettestime** | Compteur de points interactif conçu pour simplifier les parties de fléchettes. | Next.js, React.js, JavaScript, TypeScript | [🌐 Voir le site](https://flechettestime.vercel.app/)|
+| **flechettestime** | Compteur de points interactif conçu pour simplifier les parties de fléchettes. | Next.js, React.js, JavaScript, TypeScript | [🌐 Voir le site](https://flechettestime.vercel.app/) |
 | **kyanto** | Boutique de streetwear inspirée de l'esthétique japonaise moderne et urbaine. | HTML5, CSS3 | [🌐 Voir le site](https://kyanto.vercel.app/) |
 | **atelier-ceramique** | Site vitrine mettant en valeur les créations d'un atelier d'artisanat (projet individuel, à l'initiation). | HTML5, CSS3 | [🌐 Voir le site](https://atelier-ceramique.vercel.app/) |
 
 ---
 
+## 📊 Mon activité GitHub
+
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonygargoua&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonygargoua&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 📫 Restons en contact !
 
+* 🖥️ **Portfolio :** [anthonygargoua.github.io/portfolio](https://anthonygargoua.github.io/portfolio/)
 * 💼 **LinkedIn :** [linkedin.com/in/anthony-gargoua-776571196](https://linkedin.com/in/anthony-gargoua-776571196)
 * 📧 **Email :** [gargouaanthony@hotmail.fr](mailto:gargouaanthony@hotmail.fr)
 * 📞 **Téléphone :** [07 61 57 94 53](tel:+33761579453)
