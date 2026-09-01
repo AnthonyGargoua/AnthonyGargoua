@@ -47,7 +47,7 @@ Voici les applications et projets que j'ai développés (détails et démos comp
 
 | Projet | Description | Stack Technique | Déploiement |
 | :--- | :--- | :--- | :--- |
-| **ag-developer** | Portfolio personnel de présentation de mes services et de mes compétences. | HTML5, CSS3, Vanilla JavaScript | [🌐 Voir le site](https://ag-developer-five.vercel.app/) |
+| **ag-developer** | Portfolio personnel de présentation de mes services et de mes compétences. | HTML5, CSS3, Vanilla JavaScript | [🌐 Voir le site](https://anthonygargoua.github.io/portfolio/ |
 | **agperformance** | Application sportive pour suivre son programme et enregistrer ses données (VTT, Padel). | Next.js, TypeScript, Tailwind CSS | [🌐 Voir le site](https://agperformance.vercel.app/) |
 | **happybudget** | Gestionnaire financier pour suivre et maîtriser ses dépenses quotidiennes simplement. | React.js, TypeScript, Supabase, Prisma | [🌐 Voir le site](https://happybudget-theta.vercel.app/) |
 | **flechettestime** | Compteur de points interactif conçu pour simplifier les parties de fléchettes. | Next.js, React.js, JavaScript, TypeScript | [🌐 Voir le site](https://flechettestime.vercel.app/) |
