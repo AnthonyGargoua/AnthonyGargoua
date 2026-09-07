@@ -6,14 +6,13 @@ Issu d'un double profil alliant **expertise commerciale** et **marketing digital
 
 🎯 **Mon objectif :** concevoir des solutions innovantes et centrées sur l'utilisateur, en combinant mon sens du commerce et ma vision digitale.
 
-🔗 **Retrouvez tous mes projets en détail sur mon portfolio :** [anthonygargoua.github.io/portfolio](https://anthonygargoua.github.io/portfolio/)
+🔗 **Retrouvez tous mes projets en détail sur mon portfolio :** [anthonygargoua.github.io/ag-developer](https://anthonygargoua.github.io/ag-developer/)
 
 ---
 
 ## 🛠️ Mon Stack Technique
 
 ### 💻 Front-end
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,7 +22,6 @@ Issu d'un double profil alliant **expertise commerciale** et **marketing digital
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Back-end & Data
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -32,7 +30,6 @@ Issu d'un double profil alliant **expertise commerciale** et **marketing digital
 ![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🧰 Écosystème & Outils
-
 * 🌐 **CMS :** WordPress, PrestaShop, WooCommerce (Maintenance, SEO, SEA, SMO, Gestion E-commerce)
 * 🔄 **Versionning & Dev :** Git, GitHub, VS Code, DevTools
 * 🗄️ **Bases de données :** phpMyAdmin
@@ -43,11 +40,11 @@ Issu d'un double profil alliant **expertise commerciale** et **marketing digital
 
 ## 🚀 Mes Projets
 
-Voici les applications et projets que j'ai développés (détails et démos complètes sur mon [portfolio](https://anthonygargoua.github.io/portfolio/) :
+Voici les applications et projets que j'ai développés (détails et démos complètes sur mon [portfolio](https://anthonygargoua.github.io/ag-developer/)) :
 
 | Projet | Description | Stack Technique | Déploiement |
 | :--- | :--- | :--- | :--- |
-| **ag-developer** | Portfolio personnel de présentation de mes services et de mes compétences. | HTML5, CSS3, Vanilla JavaScript | [🌐 Voir le site](https://anthonygargoua.github.io/portfolio/) |
+| **ag-developer** | Portfolio personnel de présentation de mes services et de mes compétences. | HTML5, CSS3, Vanilla JavaScript | [🌐 Voir le site](https://anthonygargoua.github.io/ag-developer/) |
 | **agperformance** | Application sportive pour suivre son programme et enregistrer ses données (VTT, Padel). | Next.js, TypeScript, Tailwind CSS | [🌐 Voir le site](https://agperformance.vercel.app/) |
 | **happybudget** | Gestionnaire financier pour suivre et maîtriser ses dépenses quotidiennes simplement. | React.js, TypeScript, Supabase, Prisma | [🌐 Voir le site](https://happybudget-theta.vercel.app/) |
 | **flechettestime** | Compteur de points interactif conçu pour simplifier les parties de fléchettes. | Next.js, React.js, JavaScript, TypeScript | [🌐 Voir le site](https://flechettestime.vercel.app/) |
@@ -58,7 +55,7 @@ Voici les applications et projets que j'ai développés (détails et démos comp
 
 ## 📫 Restons en contact !
 
-* 🖥️ **Portfolio :** [anthonygargoua.github.io/portfolio](https://anthonygargoua.github.io/portfolio/)
+* 🖥️ **Portfolio :** [anthonygargoua.github.io/ag-developer](https://anthonygargoua.github.io/ag-developer/)
 * 💼 **LinkedIn :** [linkedin.com/in/anthony-gargoua-776571196](https://linkedin.com/in/anthony-gargoua-776571196)
 * 📧 **Email :** [gargouaanthony@hotmail.fr](mailto:gargouaanthony@hotmail.fr)
 * 📞 **Téléphone :** [07 61 57 94 53](tel:+33761579453)
