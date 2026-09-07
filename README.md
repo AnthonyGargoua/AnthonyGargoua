@@ -43,7 +43,7 @@ Issu d'un double profil alliant **expertise commerciale** et **marketing digital
 
 ## 🚀 Mes Projets
 
-Voici les applications et projets que j'ai développés (détails et démos complètes sur mon [portfolio](https://anthonygargoua.github.io/portfolio/)) :
+Voici les applications et projets que j'ai développés (détails et démos complètes sur mon [portfolio](https://anthonygargoua.github.io/ag-developer/)) :
 
 | Projet | Description | Stack Technique | Déploiement |
 | :--- | :--- | :--- | :--- |
